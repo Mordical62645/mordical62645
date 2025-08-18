@@ -8,7 +8,8 @@ Hi, I'm Tonyo
 ├─ Tech Stack
     ├─ Linux
     │   ├─ Mint (Ubuntu)
-    │   └─ Debian
+    │   ├─ Debian 
+    │   └─ Windows
     ├─ Scripting & Command Line
     │   ├─ PowerShell
     │   ├─ Windows CMD
