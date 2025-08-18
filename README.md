@@ -18,7 +18,6 @@ Hi, I'm Tonyo
     │   └─ VMWare
     ├─ AI & Productivity
     │   └─ Skilled at crafting effective prompts for faster prototyping and system documentation
-    │
     └─ In Development Focus
         ├─ Python
         ├─ Docker
