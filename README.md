@@ -5,20 +5,23 @@ Hi, I'm Tonyo
 │   ├─ IT College Student
 │   └─ Building a strong generalist foundation across IT while focusing on system administration
 │
-├─ Tech Stack
-    ├─ Linux
-    │   ├─ Mint (Ubuntu)
-    │   ├─ Debian 
-    │   └─ Windows
+└─ Tech Stack
     ├─ Scripting & Command Line
-    │   ├─ PowerShell
-    │   ├─ Windows CMD
-    │   └─ Bash
+    │   ├─ Linux Terminal (Bash)
+    │   │   ├─ Mint (Ubuntu)
+    │   │   └─ Debian 
+    │   └─ Windows
+    │       ├─ PowerShell
+    │       ├─ Windows CMD
+    │       └─ WSL
     ├─ Virtualization
     │   ├─ VirtualBox
-    │   └─ VMWare
+    │   ├─ VMWare
+    │   └─ Hyper-V
     ├─ AI & Productivity
     │   └─ Skilled at crafting effective prompts for faster prototyping and system documentation
+    │       ├─ Warp
+    │       └─ Cursor 
     └─ Development Focus
         ├─ Python
         ├─ Docker
