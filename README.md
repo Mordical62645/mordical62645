@@ -9,19 +9,23 @@ Hi, I'm Tonyo
     ├─ Scripting & Command Line
     │   ├─ Linux Terminal (Bash)
     │   │   ├─ Mint (Ubuntu)
-    │   │   └─ Debian 
+    │   │   └─ Debian
+    │   │
     │   └─ Windows
     │       ├─ PowerShell
     │       ├─ Windows CMD
     │       └─ WSL
+    │       
     ├─ Virtualization
     │   ├─ VirtualBox
     │   ├─ VMWare
     │   └─ Hyper-V
+    │
     ├─ AI & Productivity
     │   └─ Skilled at crafting effective prompts for faster prototyping and system documentation
     │       ├─ Warp
-    │       └─ Cursor 
+    │       └─ Cursor
+    │
     └─ Development Focus
         ├─ Python
         ├─ Docker
