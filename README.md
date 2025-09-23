@@ -12,10 +12,15 @@ Hi, I'm Tonyo
     │   │   └─ Debian
     │   │
     │   └─ Windows
-    │       ├─ PowerShell
-    │       ├─ Windows CMD
-    │       └─ WSL
-    │       
+    │   │   ├─ PowerShell
+    │   │   ├─ Windows CMD
+    │   │   └─ WSL
+    │   │
+    │   └─ Multimedia Framework & Tools
+    │       ├─ FFmpeg
+    │       ├─ Avidemux
+    │       └─ Handbrake
+    │
     ├─ Virtualization
     │   ├─ VirtualBox
     │   ├─ VMWare
