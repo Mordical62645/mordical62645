@@ -3,7 +3,7 @@ Hi, I'm Tonyo
 │
 ├─ Role
 │   ├─ IT College Student
-│   └─ Building a strong generalist foundation across IT while focusing on system administration
+│   └─ Building a strong generalist foundation across IT while focusing on system administration, networking, and homelabbing
 │
 └─ Tech Stack
     ├─ Scripting & Command Line
