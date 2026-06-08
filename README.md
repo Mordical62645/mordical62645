@@ -2,37 +2,28 @@
 Hi, I'm Tonyo
 │
 ├─ Role
-│   ├─ IT College Student
-│   └─ Building a strong generalist foundation across IT while focusing on system administration, networking, and homelabbing
+│   ├─ IT Student from the Philippines
+│   └─ Building a strong generalist foundation across IT with a
+│      focus on networking, system administration, and homelabbing
 │
 └─ Tech Stack
-    ├─ Scripting & Command Line
-    │   ├─ Linux Terminal (Bash)
-    │   │   ├─ Mint (Ubuntu)
-    │   │   └─ Debian
-    │   │
-    │   └─ Windows
-    │   │   ├─ PowerShell
-    │   │   ├─ Windows CMD
-    │   │   └─ WSL
-    │   │
-    │   └─ Multimedia Framework & Tools
-    │       ├─ FFmpeg
-    │       ├─ Avidemux
-    │       └─ Handbrake
+    ├─ Networking
+    │   ├─ Network Troubleshooting (VPN, connectivity)
+    │   ├─ Router & Mesh Network Configuration (TP-Link)
+    │   ├─ WAN Management
+    │   └─ Tailscale VPN
     │
-    ├─ Virtualization
-    │   ├─ VirtualBox
-    │   ├─ VMWare
-    │   └─ Hyper-V
+    ├─ Systems & Infrastructure
+    │   ├─ Linux (Debian, Arch)
+    │   ├─ Raspberry Pi
+    │   ├─ Docker
+    │   └─ Self-hosted Services (Jellyfin, Serverus, NAS)
     │
-    ├─ AI & Productivity
-    │   └─ Skilled at crafting effective prompts for faster prototyping and system documentation
-    │       ├─ Warp
-    │       └─ Cursor
+    ├─ Scripting & CLI
+    │   ├─ Bash
+    │   └─ PowerShell
     │
-    └─ Development Focus
-        ├─ Python
-        ├─ Docker
-        └─ Git
+    └─ Tools
+        ├─ Git
+        └─ Neovim (Lazyvim)
 ```
