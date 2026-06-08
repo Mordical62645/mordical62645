@@ -1,4 +1,3 @@
-```
 Hi, I'm Tonyo
 │
 ├─ Role
@@ -19,6 +18,10 @@ Hi, I'm Tonyo
     │   ├─ Docker
     │   └─ Self-hosted Services (Jellyfin, Serverus, NAS)
     │
+    ├─ Hardware
+    │   ├─ Computer Assembly & Troubleshooting
+    │   └─ Legacy Systems & E-waste Repurposing
+    │
     ├─ Scripting & CLI
     │   ├─ Bash
     │   └─ PowerShell
@@ -26,4 +29,3 @@ Hi, I'm Tonyo
     └─ Tools
         ├─ Git / GitHub
         └─ Neovim (Lazyvim)
-```
