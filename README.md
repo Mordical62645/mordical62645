@@ -24,6 +24,6 @@ Hi, I'm Tonyo
     │   └─ PowerShell
     │
     └─ Tools
-        ├─ Git
+        ├─ Git / GitHub
         └─ Neovim (Lazyvim)
 ```
